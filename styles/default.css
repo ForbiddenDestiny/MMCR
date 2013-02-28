@@ -1,0 +1,192 @@
+﻿/* 
+    Document   : default
+    Created on : 28-Sep-2012, 20:32:01
+    Author     : rogpc
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+h1
+{
+    font: 35px "sergio ui", sans-serif ;
+    font-weight: 800;
+    margin-top: 25px;
+}
+h2
+{
+    font: 25px "sergio ui", sans-serif ;
+    font-weight: 800;
+    margin-top: 20px;
+}
+
+#dot {
+    position:fixed;
+    left:0;
+    top:0;
+    width:100%;
+    height:100%;
+    background:transparent url('../images/bg-dot-top.png') 0 0 repeat-x;
+    z-index:-1;
+}
+
+body {
+    background-color: #e4eaef;
+    font: 16px "sergio ui", sans-serif;
+    color: Black;
+    margin: 0 auto;
+    padding: 15px;
+    text-align: center;
+    width: 900px;
+}
+
+a {
+    color: Black;
+    padding-left: 5px;
+}
+
+a:hover {
+    color: Grey;
+}      
+
+#container {
+    width: 900px;
+    margin: 0 auto;
+    text-align: left;
+    margin-bottom: 35px;
+    background-color: White;
+    color: black;
+    border: 1px dotted;
+    border-radius:7px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+    width: 900px;
+    margin: auto;
+}
+
+li {
+    float: left;
+}
+
+ul a {
+    background-image:  url("../include/dotty-top.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-right: 15px;
+    padding-left: 15px;
+    display: block;
+    line-height: 50px;
+    text-decoration: none;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 16px;
+    color: Black;
+}
+
+ul a:hover {
+    color: Grey;
+}
+
+#fullwidth {
+    width: 900px;
+    height: 200px;
+    text-align: right;
+}
+
+.headertext {
+    text-align: right;
+    width: 250px;
+}
+
+.headernav {
+   width: 700px; 
+   float: right;
+}
+
+#updates {
+    width: 300px;
+    min-height: 100%;
+    background-color: White;
+    margin-right: 50px;
+    color: black;
+    border: 1px dotted;
+    border-radius:7px;
+}
+
+#aboutus {
+    width: 550px;
+    min-height: 200px;
+    background-color: White;
+    color: black;
+    border: 1px dotted;
+    border-radius:7px;
+}
+
+table {
+    padding: 2px;
+}
+
+.boxtitle {
+    text-align: left;
+    color: Black;
+    font-weight: 800;
+    font-size: 25px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.navbox {
+	width: 850px;
+	height: 50px;
+	background-color: white;
+	border: thin dotted;
+	border-radius: 7px;
+	padding: 5px 5px 5px 5px;
+	margin: 15px 15px 15px 15px;
+}
+
+
+.box {
+	width: 245px;
+	height: 245px;
+	background-color: white;
+	border: thin dotted;
+	border-radius: 7px;
+	float:left;
+	padding: 10px 10px 10px 10px;
+	margin: 14px 14px 14px 14px;
+}
+
+.bigbox {
+	width: 850px;
+	min-height: 250px;
+	background-color: white;
+	border: thin dotted;
+	border-radius: 7px;
+	float:left;
+	padding: 10px 10px 10px 10px;
+	margin: 14px 14px 14px 14px;
+        text-align: left;
+}
+#error {
+    text-align: center;
+    color: Red;
+    font-weight: 800;
+    font-size: 25px;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    background: White;
+    width: 900px;
+    height: 50px;
+    border: 1px dotted;
+    border-radius:7px;
+}

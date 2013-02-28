@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html>
+<script type="text/javascript" src="js/jquery-1.8.2.min.js"></script>
+<script src="js/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="styles/default.css"  type="text/css"/>
+<link rel="stylesheet" href="styles/login/login.css"  type="text/css"/>
+<link rel="stylesheet" href="styles/slider/nivo-slider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="styles/slider/default.css" type="text/css" media="screen" />
+<script type="text/javascript">
+    $(window).load(function() {
+        $('#slider').nivoSlider({
+            effect: 'random',
+            randomStart: true
+        });
+    });
+</script>
+<title> MMCR</title>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('a.login-window').click(function() {
+
+            // Getting the variable's value from a link
+            var loginBox = $(this).attr('href');
+
+            //Fade in the Popup and add close button
+            $(loginBox).fadeIn(300);
+
+            //Set the center alignment padding + border
+            var popMargTop = ($(loginBox).height() + 36) / 2;
+            var popMargLeft = ($(loginBox).width() + 36) / 2;
+
+            $(loginBox).css({
+                'margin-top' : -popMargTop,
+                'margin-left' : -popMargLeft
+            });
+
+            // Add the mask to body
+            $('body').append('<div id="mask"></div>');
+            $('#mask').fadeIn(300);
+
+            return false;
+        });
+
+        // When clicking on the button close or the mask layer the popup closed
+        $('a.close, #mask').live('click', function() {
+            $('#mask , .login-popup').fadeOut(300 , function() {
+                $('#mask').remove();
+            });
+            return false;
+        });
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('a.newuser-window').click(function() {
+
+            // Getting the variable's value from a link
+            var loginBox = $(this).attr('href');
+
+            //Fade in the Popup and add close button
+            $(loginBox).fadeIn(300);
+
+            //Set the center alignment padding + border
+            var popMargTop = ($(loginBox).height() + 24) / 2;
+            var popMargLeft = ($(loginBox).width() + 24) / 2;
+
+            $(loginBox).css({
+                'margin-top' : -popMargTop,
+                'margin-left' : -popMargLeft
+            });
+
+            // Add the mask to body
+            $('body').append('<div id="mask"></div>');
+            $('#mask').fadeIn(300);
+
+            return false;
+        });
+
+        // When clicking on the button close or the mask layer the popup closed
+        $('a.close, #mask').live('click', function() {
+            $('#mask , .newuser-popup').fadeOut(300 , function() {
+                $('#mask').remove();
+            });
+            return false;
+        });
+    });
+</script>
+</head>
+<body>
+<div id="login-box" class="login-popup" style="display: none; margin-top: -116px; margin-left: -132px;">
+    <div align="right"><a href="#" class="close"><img src="images/close_pop.png" class="btn_close" title="Close Window" alt="Close"></a></div>
+    <h1> Login </h1>
+    <form method="post" class="signin" action="#">
+        <fieldset class="textbox">
+            <label class="username">
+                <span>Username</span>
+                <input  name="txtCustEmail" value="" type="text" autocomplete="on" placeholder="Username">
+            </label>
+
+            <label class="password">
+                <span>Password</span>
+                <input  name="txtCustPass" value="" type="password" placeholder="Password">
+            </label>
+
+            <button class="submit button" type="submit">Sign In!</button>
+
+        </fieldset>
+    </form>
+</div>
+
+<div id="newuser-box" class="newuser-popup" style="display: none; margin-top: -116px; margin-left: -132px;">
+    <div align="right"><a href="#" class="close"><img src="images/close_pop.png" class="btn_close" title="Close Window" alt="Close"></a></div>
+    <h1> New User </h1>
+    <form method="post" class="signin" action="#">
+        <fieldset class="textbox">
+            <label class="username">
+                <span>First Name</span>
+                <input  name="txtRegFirstName" value="" type="text" autocomplete="on" placeholder="First Name">
+            </label>
+            <label class="username">
+                <span>Surname</span>
+                <input  name="txtRegSurname" value="" type="text" autocomplete="on" placeholder="Surname">
+            </label>
+            <label class="username">
+                <span>Username</span>
+                <input  name="txtRegEmail" value="" type="text" autocomplete="on" placeholder="Username">
+            </label>
+
+            <label class="password">
+                <span>Password</span>
+                <input name="txtRegPass" value="" type="password" placeholder="Password">
+            </label>
+
+            <label class="username">
+                <span>Password Confirm</span>
+                <input name="txtRegPassCon" value="" type="password" placeholder="Password Confirm">
+            </label>
+
+            <label class="username">
+                <span>Address Line 1</span>
+                <input name="txtRegAddress1" value="" type="password" placeholder="Password">
+            </label>
+            <label class="username">
+                <span>Address Line 2</span>
+                <input name="txtRegAddress2" value="" type="password" placeholder="Password">
+            </label>
+            <label class="username">
+                <span>Town </span>
+                <input name="txtRegTown" value="" type="password" placeholder="Password">
+            </label>
+            <label class="username">
+                <span>Post Code</span>
+                <input name="txtRegPostcode" value="" type="password" placeholder="Password">
+            </label>
+            <label class="username">
+                <span>Telephone</span>
+                <input name="txtRegTelephone" value="" type="password" placeholder="Password">
+            </label>
+            <button name="btnRegSubmit" class="submit button" type="submit">Sign Up!</button>
+
+        </fieldset>
+    </form>
+</div>
+<div id="container">
+    <table>
+        <tr>
+            <td>
+                <div id="slidercontainer">
+                    <div class="slider-wrapper theme-default">
+                        <div id="slider" class="nivoSlider">
+                            <img src="images/GoldMedalAd.jpg" alt width="500"  />
+                            <img src="images/Spannersandshit.jpg" alt width="500"  />
+                            <img src="images/PushingCar.jpg" alt width="500"  />
+                        </div>
+                    </div>
+                </div>
+            </td>
+        </tr>
+    </table></div>
+<table>
+    <tr>
+        <td>
+            <div class="navbox">
+                <ul>
+                    <li><a href="index.html"><img src="images/icons/Home.png"/>Home</a></li>
+                    <li><a href="shop.html"><img src="images/icons/Shop.png"/>Shop</a></li>
+                    <li><a href="breakdown.html"><img src="images/icons/Breakdown.png"/>Breakdown</a></li>
+                    <li><a href="schemes.html"><img src="images/icons/Schemes.png"/>Schemes</a></li>
+                    <li><a href="advice.html"><img src="images/icons/Advice.png"/>Advice</a></li>
+                    <li><a href="#newuser-box" class="newuser-window"><img src="images/icons/NewUser.png"/>New User</a></li>
+                    <li><a href="#login-box" class="login-window"><img src="images/icons/Login.png"/>Login</a></li>
+                </ul>
+
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <div class="bigbox"><h1>Honda Accord 2008 (08) 2.0; 1997CC SOHC 16V INJ - 010</h1>
+
+                <img src="images/Accessories.jpg" width="220" />
+
+                <h2>Ignition Coil:</h2>
+                <p>
+                    An ignition  coil (also  called  a spark coil)  is  an induction  coil in  an automobile's ignition 
+                    system
+                    spark in  the spark  plugs to  ignite  the  fuel.  Some  coils  have  an  internal  resistor  while  others  rely  on  a 
+                    resistor wire or an external resistor to limit the current flowing into the coil from the car's 12 volt supply. 
+                    The
+                    distributor
+                </p>
+                <p>                PRICE: £ 93
+                </p>
+                <p>                Part Number: ADH21479C
+                </p>
+                <p>                Manufacturer: Honda OEM</p>
+                <img src="images/ha081.png">
+                <h2>             Spark Plugs:
+                </h2>
+                <p>
+                    A spark  plug is  a  device  for  delivering  electric  current  from  anignition  system to  the combustion 
+                    chamber
+                    containing combustion pressure within the engine. A spark plug has a metal threaded shell, electrically 
+                    isolated  from  a  central electrode by  aporcelain insulator.  The  central  electrode,  which  may  contain 
+                    a
+                    The  spark  plug's  metal  shell  is  screwed  into  the  engine's cylinder  head and  thus  electrically grounded. 
+                    The  central  electrode  protrudes  through  the  porcelain  insulator  into  the combustion  chamber, 
+                    forming  one  or  more spark  gaps between  the  inner  end  of  the  central  electrode  and  usually  one  or 
+                    more  protuberances  or  structures  attached  to  the  inner  end  of  the  threaded  shell  and  designated 
+                    the "side", "earth", or "ground" electrode(s)
+                </p>
+                <p>                Price: £ 22
+                </p>
+                <p>                Part Number: 9807B5617P
+                </p>
+                <p>                Manufacturer: Honda
+                </p><img src="images/ha082.png">
+                <h2>                Fan Belts:
+                </h2>
+                <p>           A
+                    can  lead  to  decreased  performance  or  complete  stalling.  It  connects  the  engine  cooling  fan  to  the 
+                    alternator
+                    compressor, the power steering pump and the water pump.
+                </p>
+                <p>                Price: £20.70
+                </p>
+                <p>                Part Number: 
+                </p>
+                <p>                Manufacturer: Continental
+                </p><img src="images/ha083.png">
+                <h2>                Engine Sensor:
+                </h2>
+                <p>                The manifold  absolute  pressure  sensor (MAP  sensor)  is  one  of  the sensors used  in  an internal 
+                    combustion engine's electronic control system.
+                </p>
+                <p>                Engines  that  use  a  MAP  sensor  are  typically fuel  injected.  The  manifold absolute  pressure sensor 
+                    provides  instantaneous manifold  pressure information  to  the  engine's electronic  control  unit (ECU). 
+                    The  data  is  used  to  calculate  air  density  and  determine  the  engine's  air  mass  flow  rate,  which  in  turn 
+                    determines  the  required  fuel  metering  for  optimum  combustion  (see stoichiometry)  and  influence 
+                    the  advance  or  retard  of ignition  timing.  A  fuel-injected  engine  may  alternately  use  a mass  airflow 
+                    sensor
+                    seldom both.
+                </p>
+                <p>                Price: £ 102
+                <p>
+                    Part Number: SEB1529.LUC
+                </p>
+                <p>Manufacturer: Lucas
+                </p><img src="images/ha084.png">
+                <h2>                Headlight Bulbs:
+                </h2>
+                <p>               Bulbs are paramount to safe driving in poor weather conditions and at night. They not only illuminate 
+                    the
+                    or reverse, and when you are braking.
+                </p>
+                <p>                Price: £ 16
+                </p>
+                <p>                Part Number: 48177031P
+                </p>
+                <p>                Manufacturer: Philips
+                </p><img src="images/ha085.png">
+
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+
+            <div class="navbox">
+                <ul>
+                    <li><a href="Terms-and-Conditions.html">Terms and Conditions</a></li>
+                    <li><a href="Contact-Us.html">Contact Us</a></li>
+                    <li><a href="About-Us.html">About Us </a></li>
+                    <li><a href="">Copyright © MMCR</a></li>
+                </ul>
+
+            </div>
+
+        </td>
+    </tr>
+</table>
+
+</body>
+</html>
