@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" name="Default" comment="Commit Me!">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/car/10469311-used-2008-honda-accord-winston-salem-nc.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/car/Ford-Fiesta-2008-wallpaper.jpg" />
+    <list default="true" id="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/About-Us.html" afterPath="$PROJECT_DIR$/About-Us.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/default.css" afterPath="$PROJECT_DIR$/styles/default.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ford-fiesta-2008.html" afterPath="$PROJECT_DIR$/ford-fiesta-2008.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/honda-accord-2008.html" afterPath="$PROJECT_DIR$/honda-accord-2008.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop.html" afterPath="$PROJECT_DIR$/shop.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/traffic.html" afterPath="$PROJECT_DIR$/traffic.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/schemes.html" afterPath="$PROJECT_DIR$/schemes.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MMCR.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364334511950" ignored="false" />
+    <file path="/Dummy.txt" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364337074617" ignored="false" />
     <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/include/generic/header.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364075872638" ignored="false" />
     <file path="/header.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364075871787" ignored="false" />
     <file path="/Dummy.regexp" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364069255555" ignored="false" />
@@ -67,97 +60,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="About-Us.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/About-Us.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="193" column="70" selection-start="8144" selection-end="8144" vertical-scroll-proportion="-18.76923">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="schemes.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="schemes.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/schemes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="205" column="0" selection-start="8652" selection-end="8652" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shop.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="209" column="9" selection-start="8435" selection-end="8435" vertical-scroll-proportion="-16.615385">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Contact-Us.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Contact-Us.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="203" column="30" selection-start="8099" selection-end="8099" vertical-scroll-proportion="-0.65384614">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ford-fiesta-2008.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ford-fiesta-2008.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="204" column="0" selection-start="7966" selection-end="7966" vertical-scroll-proportion="-11.230769">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="honda-accord-2008.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/honda-accord-2008.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="217" column="21" selection-start="8853" selection-end="8853" vertical-scroll-proportion="-15.461538">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="traffic.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/traffic.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="214" column="78" selection-start="8811" selection-end="8811" vertical-scroll-proportion="-17.038462">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="advice.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/advice.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="269" column="43" selection-start="13754" selection-end="13754" vertical-scroll-proportion="-7.8461537">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/styles/default.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="21" selection-start="344" selection-end="344" vertical-scroll-proportion="0.4089347">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="breakdown.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/breakdown.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="206" column="13" selection-start="8749" selection-end="8749" vertical-scroll-proportion="0.0">
+            <state line="241" column="0" selection-start="10297" selection-end="10297" vertical-scroll-proportion="0.4781582">
               <folding />
             </state>
           </provider>
@@ -416,13 +322,18 @@
       <created>1364078652387</created>
       <updated>1364078652387</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit Me!">
+      <created>1364337081089</created>
+      <updated>1364337081089</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34428573" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -439,7 +350,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -538,14 +448,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/breakdown.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="206" column="13" selection-start="8749" selection-end="8749" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/schemes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="205" column="0" selection-start="8652" selection-end="8652" vertical-scroll-proportion="0.0">
+        <state line="206" column="13" selection-start="8749" selection-end="8749" vertical-scroll-proportion="0.49822906">
           <folding />
         </state>
       </provider>
@@ -602,7 +505,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/About-Us.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="193" column="70" selection-start="8144" selection-end="8144" vertical-scroll-proportion="-18.76923">
+        <state line="204" column="25" selection-start="8619" selection-end="8619" vertical-scroll-proportion="-18.76923">
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -612,7 +515,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/default.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="21" selection-start="344" selection-end="344" vertical-scroll-proportion="0.4089347">
+        <state line="15" column="21" selection-start="252" selection-end="252" vertical-scroll-proportion="0.29209623">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schemes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="241" column="0" selection-start="10297" selection-end="10297" vertical-scroll-proportion="0.4781582">
           <folding />
         </state>
       </provider>
