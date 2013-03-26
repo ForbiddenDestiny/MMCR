@@ -1,57 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phone-app.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/traffic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/why-go-gold.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/About-Us.html" afterPath="$PROJECT_DIR$/About-Us.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Contact-Us.html" afterPath="$PROJECT_DIR$/Contact-Us.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Terms-and-Conditions.html" afterPath="$PROJECT_DIR$/Terms-and-Conditions.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advice.html" afterPath="$PROJECT_DIR$/advice.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/breakdown.html" afterPath="$PROJECT_DIR$/breakdown.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ford-fiesta-2008.html" afterPath="$PROJECT_DIR$/ford-fiesta-2008.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/honda-accord-2008.html" afterPath="$PROJECT_DIR$/honda-accord-2008.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mechanic.html" afterPath="$PROJECT_DIR$/mechanic.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/peugeot-206-2008.html" afterPath="$PROJECT_DIR$/peugeot-206-2008.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/schemes.html" afterPath="$PROJECT_DIR$/schemes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop.html" afterPath="$PROJECT_DIR$/shop.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user.html" afterPath="$PROJECT_DIR$/user.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vauxhall-astra-2008.html" afterPath="$PROJECT_DIR$/vauxhall-astra-2008.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" name="Default" comment="" />
     <ignored path="MMCR.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364076331671" ignored="false" />
-    <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/include/generic/header.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364075872638" ignored="false" />
-    <file path="/header.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364075871787" ignored="false" />
-    <file path="/Dummy.regexp" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364069255555" ignored="false" />
-    <file path="/injection.txt" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364069255555" ignored="false" />
-    <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/project_selector/project/activity/edit_milestone/user_form.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364072758207" ignored="false" />
-    <file path="/user_form.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364074406382" ignored="false" />
-    <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/project_selector/project/activity/edit_milestone/edit_milestone.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364073408033" ignored="false" />
-    <file path="/edit_milestone.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364071791764" ignored="false" />
-    <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/project_selector/project/activity/delete_milestone/user_form.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364073952360" ignored="false" />
-    <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/styles/login/login.css" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364072881089" ignored="false" />
-    <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/project_selector/project/activity/index.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364076007615" ignored="false" />
-    <file path="/index.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364076007615" ignored="false" />
-    <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/project_selector/project/activity/delete_milestone/delete_milestone.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364073943881" ignored="false" />
-    <file path="/delete_milestone.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364073666014" ignored="false" />
-    <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/.idea/jsLibraryMappings.xml" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364075033954" ignored="false" />
-    <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/project_selector/delete_project/delete_milestone.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364074233033" ignored="false" />
-    <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/project_selector/delete_project/user_form.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364074406382" ignored="false" />
-    <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/project_selector/project/index.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364076002649" ignored="false" />
-    <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/project_selector/index.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364076069777" ignored="false" />
-    <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/styles/default.css" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364076117494" ignored="false" />
-    <file path="/default.css" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364076097415" ignored="false" />
-    <file path="/index.html" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364078185786" ignored="false" />
-    <file path="/peugeot-206-2008.html" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364077884224" ignored="false" />
-    <file path="/phone-app.html" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364078210334" ignored="false" />
-    <file path="/traffic.html" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364078223181" ignored="false" />
-    <file path="/why-go-gold.html" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364078228949" ignored="false" />
     <file path="/About-Us.html" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364078249742" ignored="false" />
+    <file path="/why-go-gold.html" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364078228949" ignored="false" />
+    <file path="/traffic.html" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364078223181" ignored="false" />
+    <file path="/phone-app.html" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364078210334" ignored="false" />
+    <file path="/peugeot-206-2008.html" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364077884224" ignored="false" />
+    <file path="/index.html" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364078185786" ignored="false" />
+    <file path="/default.css" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364076097415" ignored="false" />
+    <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/styles/default.css" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364076117494" ignored="false" />
+    <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/project_selector/index.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364076069777" ignored="false" />
+    <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/project_selector/project/index.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364076002649" ignored="false" />
+    <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/project_selector/delete_project/user_form.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364074406382" ignored="false" />
+    <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/project_selector/delete_project/delete_milestone.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364074233033" ignored="false" />
+    <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/.idea/jsLibraryMappings.xml" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364075033954" ignored="false" />
+    <file path="/delete_milestone.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364073666014" ignored="false" />
+    <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/project_selector/project/activity/delete_milestone/delete_milestone.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364073943881" ignored="false" />
+    <file path="/index.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364076007615" ignored="false" />
+    <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/project_selector/project/activity/index.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364076007615" ignored="false" />
+    <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/styles/login/login.css" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364072881089" ignored="false" />
+    <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/project_selector/project/activity/delete_milestone/user_form.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364073952360" ignored="false" />
+    <file path="/edit_milestone.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364071791764" ignored="false" />
+    <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/project_selector/project/activity/edit_milestone/edit_milestone.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364073408033" ignored="false" />
+    <file path="/user_form.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364074406382" ignored="false" />
+    <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/project_selector/project/activity/edit_milestone/user_form.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364072758207" ignored="false" />
+    <file path="/injection.txt" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364069255555" ignored="false" />
+    <file path="/Dummy.regexp" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364069255555" ignored="false" />
+    <file path="/header.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364075871787" ignored="false" />
+    <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/include/generic/header.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364075872638" ignored="false" />
+    <file path="/Dummy.txt" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364076331671" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,28 +63,7 @@
       <file leaf-file-name="traffic.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/traffic.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="199" column="45" selection-start="7852" selection-end="7852" vertical-scroll-proportion="-13.615385">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Terms-and-Conditions.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Terms-and-Conditions.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="-0.65384614">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="user.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/user.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="-0.65384614">
+            <state line="199" column="45" selection-start="7852" selection-end="7852" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -113,7 +72,7 @@
       <file leaf-file-name="vauxhall-astra-2008.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vauxhall-astra-2008.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="68" selection-start="306" selection-end="306" vertical-scroll-proportion="-3.2692308">
+            <state line="5" column="68" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -122,7 +81,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="208" column="25" selection-start="8968" selection-end="8968" vertical-scroll-proportion="-12.346154">
+            <state line="208" column="25" selection-start="8968" selection-end="8968" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -131,11 +90,8 @@
       <file leaf-file-name="why-go-gold.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/why-go-gold.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="199" column="47" selection-start="7854" selection-end="7854" vertical-scroll-proportion="-16.653847">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="199" column="47" selection-start="7854" selection-end="7854" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -143,7 +99,7 @@
       <file leaf-file-name="About-Us.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/About-Us.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="203" column="53" selection-start="8593" selection-end="8593" vertical-scroll-proportion="0.3908873">
+            <state line="206" column="54" selection-start="8700" selection-end="8700" vertical-scroll-proportion="0.32755297">
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -155,11 +111,8 @@
       <file leaf-file-name="phone-app.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phone-app.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="199" column="53" selection-start="7860" selection-end="7860" vertical-scroll-proportion="-14.269231">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="199" column="53" selection-start="7860" selection-end="7860" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -168,10 +121,7 @@
         <entry file="file://$PROJECT_DIR$/peugeot-206-2008.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="1" column="67" selection-start="0" selection-end="15864" vertical-scroll-proportion="-0.65384614">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -186,11 +136,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitLogSettings">
-    <option name="myDateState">
-      <MyDateState />
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -200,7 +145,6 @@
         <option value="$PROJECT_DIR$/honda-accord-2008.html" />
         <option value="$PROJECT_DIR$/mechanic.html" />
         <option value="$PROJECT_DIR$/peugeot-206-2008.html" />
-        <option value="$PROJECT_DIR$/schemes.html" />
         <option value="$PROJECT_DIR$/shop.html" />
         <option value="$PROJECT_DIR$/Terms-and-Conditions.html" />
         <option value="$PROJECT_DIR$/user.html" />
@@ -209,6 +153,7 @@
         <option value="$PROJECT_DIR$/phone-app.html" />
         <option value="$PROJECT_DIR$/traffic.html" />
         <option value="$PROJECT_DIR$/why-go-gold.html" />
+        <option value="$PROJECT_DIR$/schemes.html" />
         <option value="$PROJECT_DIR$/About-Us.html" />
       </list>
     </option>
@@ -217,8 +162,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -264,6 +209,11 @@
             <id>XML</id>
           </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
   </component>
@@ -298,27 +248,27 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MMCR" />
+              <option name="myItemId" value="MMCR-master" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MMCR" />
+              <option name="myItemId" value="MMCR-master" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MMCR" />
+              <option name="myItemId" value="MMCR-master" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MMCR" />
+              <option name="myItemId" value="MMCR-master" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MMCR" />
+              <option name="myItemId" value="MMCR-master" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -333,18 +283,11 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="options.lastSelected" value="Errors" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="settings.github" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mmcrtest" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
-  </component>
-  <component name="PublishConfig">
-    <servers>
-      <server id="df382b86-fb44-4e48-b979-3e1bb6abee72">
-        <serverdata />
-      </server>
-    </servers>
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -403,7 +346,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34428573" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -411,7 +354,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19850586" sideWeight="0.67" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20151515" sideWeight="0.67" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -460,13 +403,6 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
-    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
-    <option name="LIMIT_HISTORY" value="true" />
-    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
-    <option name="UPDATE_FILTER_SCOPE_NAME" />
-    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
-    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
-    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" value="Commit Me!" />
@@ -480,7 +416,6 @@
     <option name="ACTIVE_VCS_NAME" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
-    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="Commit Me!" />
@@ -489,65 +424,90 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/breakdown.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="-0.65384614">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Contact-Us.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="-0.65384614">
-          <folding />
-        </state>
+        <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="-0.65384614" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ford-fiesta-2008.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="-0.65384614">
-          <folding />
-        </state>
+        <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="-0.65384614" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/honda-accord-2008.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="-0.65384614">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/schemes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="-0.65384614">
-          <folding />
-        </state>
+        <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="-0.65384614" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shop.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="-0.65384614">
-          <folding />
-        </state>
+        <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="-0.65384614" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Terms-and-Conditions.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="-0.65384614">
+        <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/user.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="-0.65384614">
+        <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vauxhall-astra-2008.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="68" selection-start="306" selection-end="306" vertical-scroll-proportion="-3.2692308">
+        <state line="5" column="68" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="208" column="25" selection-start="8968" selection-end="8968" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/traffic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="199" column="45" selection-start="7852" selection-end="7852" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/why-go-gold.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="199" column="47" selection-start="7854" selection-end="7854" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phone-app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="199" column="53" selection-start="7860" selection-end="7860" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/peugeot-206-2008.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="67" selection-start="0" selection-end="15864" vertical-scroll-proportion="-0.65384614">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Medal.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schemes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="217" column="41" selection-start="9250" selection-end="9250" vertical-scroll-proportion="0.4208417">
           <folding />
         </state>
       </provider>
@@ -559,56 +519,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/peugeot-206-2008.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="67" selection-start="0" selection-end="15864" vertical-scroll-proportion="-0.65384614">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="208" column="25" selection-start="8968" selection-end="8968" vertical-scroll-proportion="-12.346154">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/traffic.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="199" column="45" selection-start="7852" selection-end="7852" vertical-scroll-proportion="-13.615385">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/why-go-gold.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="199" column="47" selection-start="7854" selection-end="7854" vertical-scroll-proportion="-16.653847">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phone-app.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="199" column="53" selection-start="7860" selection-end="7860" vertical-scroll-proportion="-14.269231">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/About-Us.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="203" column="53" selection-start="8593" selection-end="8593" vertical-scroll-proportion="0.3908873">
+        <state line="206" column="54" selection-start="8700" selection-end="8700" vertical-scroll-proportion="0.32755297">
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />

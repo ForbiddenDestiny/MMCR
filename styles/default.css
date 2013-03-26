@@ -68,13 +68,14 @@ a:hover {
     padding: 0;
 }
 
-ul {
+.navbox ul {
     list-style-type: none;
     width: 900px;
     margin: auto;
 }
 
-li {
+
+.navbox ul li {
     float: left;
 }
 
