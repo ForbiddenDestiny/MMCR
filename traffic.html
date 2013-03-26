@@ -199,6 +199,48 @@
 
             <div class="bigbox"><h1>Traffic News</h1>
                 <p>And now for traffic news with marty fly in the sky</p>
+                For a visual representation of the current status of the traffic in the world visit <a href="https://maps.google.co.uk/?ll=52.486125,-0.697632&spn=2.993971,8.453979&t=m&z=8&layer=t">Google Maps Traffic</a>;
+                <h2>Traffic alerts from the Highways agency:</h2>
+                <script src="http://www.google.com/jsapi?key=AIzaSyA5m1Nc8ws2BbmPRwKu5gFradvD_hgq6G0" type="text/javascript"></script>
+                <script type="text/javascript">
+                    /*
+                     *  How to load a feed via the Feeds API.
+                     */
+
+                    google.load("feeds", "1");
+
+                    // Our callback function, for when a feed is loaded.
+                    function feedLoaded(result) {
+                        if (!result.error) {
+                            // Grab the container we will put the results into
+                            var container = document.getElementById("content");
+                            container.innerHTML = '';
+
+                            // Loop through the feeds, putting the titles onto the page.
+                            // Check out the result object for a list of properties returned in each entry.
+                            // http://code.google.com/apis/ajaxfeeds/documentation/reference.html#JSON
+                            for (var i = 0; i < result.feed.entries.length; i++) {
+                                var entry = result.feed.entries[i];
+                                var div = document.createElement("div");
+                                div.appendChild(document.createTextNode(entry.title));
+                                container.appendChild(div);
+                            }
+                        }
+                    }
+
+                    function OnLoad() {
+                        // Create a feed instance that will grab Digg's feed.
+                        var feed = new google.feeds.Feed("http://hatrafficinfo.dft.gov.uk/feeds/rss/UnplannedEvents.xml");
+
+                        // Calling load sends the request off.  It requires a callback function.
+                        feed.load(feedLoaded);
+                    }
+
+                    google.setOnLoadCallback(OnLoad);
+                </script>
+
+                <div id="content">Loading...</div>
+
             </div>
         </td>
     </tr>
