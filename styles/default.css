@@ -35,7 +35,7 @@ h2
 
 body {
     background-color: #e4eaef;
-    font: 16px "sergio ui", sans-serif;
+    font-family: Arial,Helvetica,sans-serif;
     color: Black;
     margin: 0 auto;
     padding: 15px;
@@ -81,12 +81,11 @@ a:hover {
 
 .navbox li {
     float: left;
+    line-height: 50px;
+    font-family: Arial,Helvetica,sans-serif;
 }
 
-.navbox ul a {
-    background-image:  url("../include/dotty-top.png");
-    background-repeat: no-repeat;
-    background-position: right;
+.navbox ul a{
     padding-right: 38px;
     padding-left: 30px;
     display: block;
