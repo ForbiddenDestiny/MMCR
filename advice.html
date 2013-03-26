@@ -1,228 +1,320 @@
 <!DOCTYPE html>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <html>
-    <script type="text/javascript" src="js/jquery-1.8.2.min.js"></script>
-    <script src="js/jquery.nivo.slider.pack.js" type="text/javascript"></script>
-    <link rel="stylesheet" href="styles/default.css"  type="text/css"/>
-    <link rel="stylesheet" href="styles/login/login.css"  type="text/css"/>
-    <link rel="stylesheet" href="styles/slider/nivo-slider.css" type="text/css" media="screen" />
-    <link rel="stylesheet" href="styles/slider/default.css" type="text/css" media="screen" />
-    <script type="text/javascript">
-        $(window).load(function() {
-            $('#slider').nivoSlider({
-                effect: 'random',
-                randomStart: true
-            });
+<script type="text/javascript" src="js/jquery-1.8.2.min.js"></script>
+<script src="js/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+<link rel="stylesheet" href="styles/default.css"  type="text/css"/>
+<link rel="stylesheet" href="styles/login/login.css"  type="text/css"/>
+<link rel="stylesheet" href="styles/slider/nivo-slider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="styles/slider/default.css" type="text/css" media="screen" />
+<script type="text/javascript">
+    $(window).load(function() {
+        $('#slider').nivoSlider({
+            effect: 'random',
+            randomStart: true
         });
-    </script>
-    <title> MMCR</title>
-    <script type="text/javascript">
-        $(document).ready(function() {
-            $('a.login-window').click(function() {
+    });
+</script>
+<title> MMCR</title>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('a.login-window').click(function() {
 
-                // Getting the variable's value from a link 
-                var loginBox = $(this).attr('href');
+            // Getting the variable's value from a link
+            var loginBox = $(this).attr('href');
 
-                //Fade in the Popup and add close button
-                $(loginBox).fadeIn(300);
+            //Fade in the Popup and add close button
+            $(loginBox).fadeIn(300);
 
-                //Set the center alignment padding + border
-                var popMargTop = ($(loginBox).height() + 36) / 2; 
-                var popMargLeft = ($(loginBox).width() + 36) / 2; 
+            //Set the center alignment padding + border
+            var popMargTop = ($(loginBox).height() + 36) / 2;
+            var popMargLeft = ($(loginBox).width() + 36) / 2;
 
-                $(loginBox).css({ 
-                    'margin-top' : -popMargTop,
-                    'margin-left' : -popMargLeft
-                });
-
-                // Add the mask to body
-                $('body').append('<div id="mask"></div>');
-                $('#mask').fadeIn(300);
-
-                return false;
+            $(loginBox).css({
+                'margin-top' : -popMargTop,
+                'margin-left' : -popMargLeft
             });
 
-            // When clicking on the button close or the mask layer the popup closed
-            $('a.close, #mask').live('click', function() { 
-                $('#mask , .login-popup').fadeOut(300 , function() {
-                    $('#mask').remove();  
-                }); 
-                return false;
-            });
+            // Add the mask to body
+            $('body').append('<div id="mask"></div>');
+            $('#mask').fadeIn(300);
+
+            return false;
         });
-    </script>
-    <script type="text/javascript">
-        $(document).ready(function() {
-            $('a.newuser-window').click(function() {
 
-                // Getting the variable's value from a link 
-                var loginBox = $(this).attr('href');
-
-                //Fade in the Popup and add close button
-                $(loginBox).fadeIn(300);
-
-                //Set the center alignment padding + border
-                var popMargTop = ($(loginBox).height() + 24) / 2; 
-                var popMargLeft = ($(loginBox).width() + 24) / 2; 
-
-                $(loginBox).css({ 
-                    'margin-top' : -popMargTop,
-                    'margin-left' : -popMargLeft
-                });
-
-                // Add the mask to body
-                $('body').append('<div id="mask"></div>');
-                $('#mask').fadeIn(300);
-
-                return false;
+        // When clicking on the button close or the mask layer the popup closed
+        $('a.close, #mask').live('click', function() {
+            $('#mask , .login-popup').fadeOut(300 , function() {
+                $('#mask').remove();
             });
-
-            // When clicking on the button close or the mask layer the popup closed
-            $('a.close, #mask').live('click', function() { 
-                $('#mask , .newuser-popup').fadeOut(300 , function() {
-                    $('#mask').remove();  
-                }); 
-                return false;
-            });
+            return false;
         });
-    </script>
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('a.newuser-window').click(function() {
+
+            // Getting the variable's value from a link
+            var loginBox = $(this).attr('href');
+
+            //Fade in the Popup and add close button
+            $(loginBox).fadeIn(300);
+
+            //Set the center alignment padding + border
+            var popMargTop = ($(loginBox).height() + 24) / 2;
+            var popMargLeft = ($(loginBox).width() + 24) / 2;
+
+            $(loginBox).css({
+                'margin-top' : -popMargTop,
+                'margin-left' : -popMargLeft
+            });
+
+            // Add the mask to body
+            $('body').append('<div id="mask"></div>');
+            $('#mask').fadeIn(300);
+
+            return false;
+        });
+
+        // When clicking on the button close or the mask layer the popup closed
+        $('a.close, #mask').live('click', function() {
+            $('#mask , .newuser-popup').fadeOut(300 , function() {
+                $('#mask').remove();
+            });
+            return false;
+        });
+    });
+</script>
 </head>
 <body>
-    <div id="login-box" class="login-popup" style="display: none; margin-top: -116px; margin-left: -132px;">
-        <div align="right"><a href="#" class="close"><img src="images/close_pop.png" class="btn_close" title="Close Window" alt="Close"></a></div>
-        <h1> Login </h1>
-        <form method="post" class="signin" action="#">
-            <fieldset class="textbox">
-                <label class="username">
-                    <span>Username</span>
-                    <input  name="txtCustEmail" value="" type="text" autocomplete="on" placeholder="Username">
-                </label>
+<div id="login-box" class="login-popup" style="display: none; margin-top: -116px; margin-left: -132px;">
+    <div align="right"><a href="#" class="close"><img src="images/close_pop.png" class="btn_close" title="Close Window" alt="Close"></a></div>
+    <h1> Login </h1>
+    <form method="post" class="signin" action="#">
+        <fieldset class="textbox">
+            <label class="username">
+                <span>Username</span>
+                <input  name="txtCustEmail" value="" type="text" autocomplete="on" placeholder="Username">
+            </label>
 
-                <label class="password">
-                    <span>Password</span>
-                    <input  name="txtCustPass" value="" type="password" placeholder="Password">
-                </label>
+            <label class="password">
+                <span>Password</span>
+                <input  name="txtCustPass" value="" type="password" placeholder="Password">
+            </label>
 
-                <button class="submit button" type="submit">Sign In!</button>              
+            <button class="submit button" type="submit">Sign In!</button>
 
-            </fieldset>
-        </form>
-    </div>
+        </fieldset>
+    </form>
+</div>
 
-    <div id="newuser-box" class="newuser-popup" style="display: none; margin-top: -116px; margin-left: -132px;">
-        <div align="right"><a href="#" class="close"><img src="images/close_pop.png" class="btn_close" title="Close Window" alt="Close"></a></div>
-        <h1> New User </h1>
-        <form method="post" class="signin" action="#">
-            <fieldset class="textbox">
-                <label class="username">
-                    <span>First Name</span>
-                    <input  name="txtRegFirstName" value="" type="text" autocomplete="on" placeholder="First Name">
-                </label>
-                <label class="username">
-                    <span>Surname</span>
-                    <input  name="txtRegSurname" value="" type="text" autocomplete="on" placeholder="Surname">
-                </label>
-                <label class="username">
-                    <span>Username</span>
-                    <input  name="txtRegEmail" value="" type="text" autocomplete="on" placeholder="Username">
-                </label>
+<div id="newuser-box" class="newuser-popup" style="display: none; margin-top: -116px; margin-left: -132px;">
+    <div align="right"><a href="#" class="close"><img src="images/close_pop.png" class="btn_close" title="Close Window" alt="Close"></a></div>
+    <h1> New User </h1>
+    <form method="post" class="signin" action="#">
+        <fieldset class="textbox">
+            <label class="username">
+                <span>First Name</span>
+                <input  name="txtRegFirstName" value="" type="text" autocomplete="on" placeholder="First Name">
+            </label>
+            <label class="username">
+                <span>Surname</span>
+                <input  name="txtRegSurname" value="" type="text" autocomplete="on" placeholder="Surname">
+            </label>
+            <label class="username">
+                <span>Username</span>
+                <input  name="txtRegEmail" value="" type="text" autocomplete="on" placeholder="Username">
+            </label>
 
-                <label class="password">
-                    <span>Password</span>
-                    <input name="txtRegPass" value="" type="password" placeholder="Password">
-                </label>
+            <label class="password">
+                <span>Password</span>
+                <input name="txtRegPass" value="" type="password" placeholder="Password">
+            </label>
 
-                <label class="username">
-                    <span>Password Confirm</span>
-                    <input name="txtRegPassCon" value="" type="password" placeholder="Password Confirm">
-                </label>
+            <label class="username">
+                <span>Password Confirm</span>
+                <input name="txtRegPassCon" value="" type="password" placeholder="Password Confirm">
+            </label>
 
-                <label class="username">
-                    <span>Address Line 1</span>
-                    <input name="txtRegAddress1" value="" type="password" placeholder="Password">
-                </label>
-                <label class="username">
-                    <span>Address Line 2</span>
-                    <input name="txtRegAddress2" value="" type="password" placeholder="Password">
-                </label>
-                <label class="username">
-                    <span>Town </span>
-                    <input name="txtRegTown" value="" type="password" placeholder="Password">
-                </label>
-                <label class="username">
-                    <span>Post Code</span>
-                    <input name="txtRegPostcode" value="" type="password" placeholder="Password">
-                </label>
-                <label class="username">
-                    <span>Telephone</span>
-                    <input name="txtRegTelephone" value="" type="password" placeholder="Password">
-                </label>
-                <button name="btnRegSubmit" class="submit button" type="submit">Sign Up!</button>
+            <label class="username">
+                <span>Address Line 1</span>
+                <input name="txtRegAddress1" value="" type="password" placeholder="Password">
+            </label>
+            <label class="username">
+                <span>Address Line 2</span>
+                <input name="txtRegAddress2" value="" type="password" placeholder="Password">
+            </label>
+            <label class="username">
+                <span>Town </span>
+                <input name="txtRegTown" value="" type="password" placeholder="Password">
+            </label>
+            <label class="username">
+                <span>Post Code</span>
+                <input name="txtRegPostcode" value="" type="password" placeholder="Password">
+            </label>
+            <label class="username">
+                <span>Telephone</span>
+                <input name="txtRegTelephone" value="" type="password" placeholder="Password">
+            </label>
+            <button name="btnRegSubmit" class="submit button" type="submit">Sign Up!</button>
 
-            </fieldset>
-        </form>
-    </div>
-    <div id="container">
-        <table>
-            <tr>
-                <td>
-                    <div id="slidercontainer">
-                        <div class="slider-wrapper theme-default">
-                            <div id="slider" class="nivoSlider">
-                                <img src="images/1.png" alt width="500"  />
-                                <img src="images/2.png" alt width="500"  />
-                                <img src="images/3.png" alt width="500"  />
-                            </div>
-                        </div>
-                    </div>
-                </td>
-            </tr>
-        </table></div>
+        </fieldset>
+    </form>
+</div>
+<div id="container">
     <table>
         <tr>
             <td>
-                <div class="navbox">
-                    <ul>
-                        <li><a href="index.html"><img src="images/icons/Home.png"/>Home</a></li>
-                        <li><a href="shop.html"><img src="images/icons/Shop.png"/>Shop</a></li>
-                        <li><a href="breakdown.html"><img src="images/icons/Breakdown.png"/>Breakdown</a></li>
-                        <li><a href="schemes.html"><img src="images/icons/Schemes.png"/>Schemes</a></li>
-                        <li><a href="advice.html"><img src="images/icons/Advice.png"/>Advice</a></li>
-                        <li><a href="#newuser-box" class="newuser-window"><img src="images/icons/NewUser.png"/>New User</a></li>
-                        <li><a href="#login-box" class="login-window"><img src="images/icons/Login.png"/>Login</a></li>
-                    </ul>
-
+                <div id="slidercontainer">
+                    <div class="slider-wrapper theme-default">
+                        <div id="slider" class="nivoSlider">
+                            <img src="images/1.png" alt width="500"  />
+                            <img src="images/2.png" alt width="500"  />
+                            <img src="images/3.png" alt width="500"  />
+                        </div>
+                    </div>
                 </div>
-
             </td>
         </tr>
-        <tr>
-            <td>
-                
-                <div class="bigbox" style="height: auto;">Advice
-                    <br/>
-                    <img src="images/Question1.jpg" width="160" />
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                </div>
+    </table></div>
+<table>
+    <tr>
+        <td>
+            <div class="navbox">
+                <ul>
+                    <li><a href="index.html"><img src="images/icons/Home.png"/>Home</a></li>
+                    <li><a href="shop.html"><img src="images/icons/Shop.png"/>Shop</a></li>
+                    <li><a href="breakdown.html"><img src="images/icons/Breakdown.png"/>Breakdown</a></li>
+                    <li><a href="schemes.html"><img src="images/icons/Schemes.png"/>Schemes</a></li>
+                    <li><a href="advice.html"><img src="images/icons/Advice.png"/>Advice</a></li>
+                    <li><a href="#newuser-box" class="newuser-window"><img src="images/icons/NewUser.png"/>New User</a></li>
+                    <li><a href="#login-box" class="login-window"><img src="images/icons/Login.png"/>Login</a></li>
+                </ul>
 
-            </td>
-        </tr>
-        <tr>
-            <td>
+            </div>
 
-                <div class="navbox">
-                    <ul>
-                        <li><a href="Terms-and-Conditions.html">Terms and Conditions</a></li>
-                        <li><a href="Contact-Us.html">Contact Us</a></li>
-                        <li><a href="About-Us.html">About Us </a></li>
-                        <li><a href="">Copyright © MMCR</a></li>
-                    </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
 
-                </div>
+            <div class="bigbox" style="height: auto;">
+                <h1>Winter Driving Advice</h1>
+                <p>
+                    Of all the seasons, winter requires the most care and preparation if you're to stay safe and avoid a breakdown.
+                </p>
+                <p>
+                    Breakdowns are more common at this time of year - we have extra patrols on call as the number of breakdowns nearly doubles during particularly cold spells - and road conditions can be really challenging, particularly when snow and ice strike.
+                </p>
+                <p>
+                    Here's our general advice for safe and troublefree driving through the cold, dark months ahead.
+                </p>
+                <h2>Battery and electrics</h2>
+                <p>
+                    Lights, heaters and wipers put high demands on the car battery. If your driving is mainly dark rush-hour trips, the battery will give out eventually.
 
-            </td>
-        </tr>
-    </table>
+                </p>
+                <p>
+                    Avoid running electrical systems any longer than necessary – turn the heater fan down and switch the heated rear window off once windows are clear.
+                </p>
+                <p>
+                    If the car stands idle most of the weekend a regular overnight trickle charge is a good idea to give the battery a chance to revive.
+                </p>
+                <p>
+                    Turn off non-essential electrical loads like lights, rear screen heater and wipers before trying to start the engine.
+                </p>
+                <p>
+                    Use the starter in short five-second bursts if the engine doesn't start quickly, leaving thirty seconds between attempts to allow the battery to recover.
+                </p>
+                <h2>Antifreeze</h2>
+                <p>
+                    A continuous squealing noise as soon as the engine is started is a sign the water pump is frozen - it's the fan belt slipping on the pulley. The cylinder block could be frozen too. Stop the engine immediately and allow it to thaw out. This may take several days unless the car can be moved to a heated garage.
+                </p>
+                <p>
+                    If the car begins to overheat a few miles from home it's likely that the radiator has frozen preventing coolant from circulating. Stop straight away to avoid serious damage and allow the radiator to thaw.
+                </p>
+                <ul>
+                    <li>Antifreeze costs only a few pounds, but a frozen and cracked engine block will cost hundreds of pounds to repair.</li>
+                    <li>Most modern cars use long-life antifreeze - it's important to use the right type and avoid mixing different types.  Check the handbook or ask a dealer for advice.</li>
+                    <li>Some types of antifreeze may need to be changed after only two years.  Check the manufacturer's service schedule.</li>
+                    <li> You need a 50-50 mix of antifreeze and water in the cooling system for winter. This gives maximum protection down to -34° centigrade, and without it, severe engine damage costing hundreds of pounds can occur.</li>
+                </ul>
+
+                <h2>Vision</h2>
+                <p>
+                    Keep the windscreen and other windows clear – if your vision is obscured through dirt, snow or even sticker-infested car windows you could face a hefty fine. Clear snow from the roof as well as from windows as this can fall onto the windscreen obscuring your view.  It can be a hazard to other road users as well.
+                </p>
+                <p>
+                    Dazzle from a low winter sun can be a particular problem.
+                </p>
+                <ul>
+                    <li>Improve vision by making sure that the windscreen is clean both inside and out. Scratches, abrasion and chips on the outside can also worsen the dazzling effect of the sun.</li>
+                    <li>Greasy smears on the screen that don't go with use of a normal screenwash additive will require a little elbow grease. Try using a cream glass polish with a slight abrasive action. If that doesn't work then try dishwasher powder dissolved in a little water – Use clean kitchen paper to clean a small area at a time and try not to go back over a patch you've just done.</li>
+                    <li>Use air conditioning for faster demisting and to reduce condensation on cold windows.</li>
+                    <li>Check windscreen wipers and replace if necessary.</li>
+                    <li>Make sure that wipers are switched off in the park position when leaving the car, when there's risk of freezing. If you don't and the blades freeze to the screen, you could damage the blades or wiper motor when you turn the ignition on.</li>
+                    <li>Top up Windscreen washer fluid and treat with a suitable additive to reduce the chance of freezing. Don't use ordinary engine antifreeze as it will damage paintwork.</li>
+                </ul>
+<br/>
+                <h2>Visibility</h2>
+                <p>Make sure that all bulbs are working and that lenses are clean. When roads are really mucky you might need to clean lights after every journey. Keep the number plates clean too, as you can be fined if they are dirty and illegible.</p>
+
+                <p>If you have to clear snow from the car it's important to clear it from the lights - front and back - as well as from the glass and roof.</p>
+
+                <p>You must use headlights when visibility is seriously reduced. You may also use front or rear fog lights but these must be switched off when visibility improves as they can dazzle other road users and obscure your brake lights.</p>
+
+                <h2>Tyres</h2>
+                <p>We recommend at least 3mm of tread for winter motoring, and certainly no less than 2mm.</p>
+
+                <p>Don't reduce tyre pressures to get more grip – it doesn't work, and reduces stability.</p>
+
+                <p>It's rare to need snow chains unless you live in an isolated area hit with heavy snow, and where the roads are not cleared. They must be removed to drive on a metalled road without a reasonable covering of snow.</p>
+
+                <p>Consider changing to winter or all season tyres – these have a higher silica content in the tread which prevents it hardening at lower temperatures, and therefore gives better grip in cold wet conditions.</p>
+
+                <h2>Before you go</h2>
+                <p>Get up at least 10 minutes early to give you time to prepare the car.</p>
+
+                <p>Don't drive off like a tank-commander, with a tiny hole cleared in the windscreen. Clear all windows using a scraper and de-icer.</p>
+
+                <p>Use a cigarette lighter to warm a key for a frozen lock. Don't breathe on the lock, as the moisture will condense and freeze.</p>
+
+                <p>Plan routes to favour major roads which are more likely to have been cleared and gritted.</p>
+
+                <p>Put safety before punctuality when the bad weather closes in. Allow extra time for winter journeys but be prepared for the inevitability of being late for work due to unexpected delay.</p>
+
+                <h2>Driving in snow and ice</h2>
+                <p>Gentle manoeuvres are the key to safe driving - stopping distances are 10 times longer in ice and snow.</p>
+                <ul>
+                    <li>Wear comfortable, dry shoes for driving. Cumbersome, snow-covered boots will slip on the pedals.</li>
+                    <li> Pull away in second gear, easing your foot off the clutch gently to avoid wheel-spin.</li>
+                    <li>Up hill -  avoid having to stop part way up by waiting until it is clear of other cars or by leaving plenty of room to the car in front. Keep a constant speed, choosing the most suitable gear well in advance to avoid having to change down on the hill.</li>
+                    <li>Down hill -  reduce your speed before the hill, use a low gear and try to avoid using the brakes. Leave as much room as possible between you and the car in front.</li>
+                    <li>If you have to use brakes then apply them gently. Release the brakes and de-clutch if the car skids.</li>
+                    <li>Automatic transmission - under normal driving conditions (motorways, etc) it's best to select 'Drive' and let the gearbox do the work throughout the full gear range. In slippery, snowy conditions it's best to select '2', which limits the gear changes and also makes you less reliant on the brakes. Some autos have a 'Winter' mode which locks out first gear to reduce the risk of wheel spin. Check the handbook.</li>
+                </ul>
+                <p>If you get stuck, straighten the steering and clear the snow from the wheels. Put a sack or old rug in front of the driving wheels to give the tyres some grip. Once on the move again, try not to stop until you reach firmer ground.</p>
+            </div>
+
+        </td>
+    </tr>
+    <tr>
+        <td>
+
+            <div class="navbox">
+                <ul>
+                    <li><a href="Terms-and-Conditions.html">Terms and Conditions</a></li>
+                    <li><a href="Contact-Us.html">Contact Us</a></li>
+                    <li><a href="About-Us.html">About Us </a></li>
+                    <li><a href="">Copyright © MMCR</a></li>
+                </ul>
+
+            </div>
+
+        </td>
+    </tr>
+</table>
 
 </body>
 </html>

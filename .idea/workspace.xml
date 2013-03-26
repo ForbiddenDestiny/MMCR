@@ -2,29 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phone-app.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/traffic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/why-go-gold.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/About-Us.html" afterPath="$PROJECT_DIR$/About-Us.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Contact-Us.html" afterPath="$PROJECT_DIR$/Contact-Us.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Terms-and-Conditions.html" afterPath="$PROJECT_DIR$/Terms-and-Conditions.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advice.html" afterPath="$PROJECT_DIR$/advice.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/breakdown.html" afterPath="$PROJECT_DIR$/breakdown.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ford-fiesta-2008.html" afterPath="$PROJECT_DIR$/ford-fiesta-2008.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/honda-accord-2008.html" afterPath="$PROJECT_DIR$/honda-accord-2008.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mechanic.html" afterPath="$PROJECT_DIR$/mechanic.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/peugeot-206-2008.html" afterPath="$PROJECT_DIR$/peugeot-206-2008.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/default.css" afterPath="$PROJECT_DIR$/styles/default.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/schemes.html" afterPath="$PROJECT_DIR$/schemes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop.html" afterPath="$PROJECT_DIR$/shop.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user.html" afterPath="$PROJECT_DIR$/user.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vauxhall-astra-2008.html" afterPath="$PROJECT_DIR$/vauxhall-astra-2008.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MMCR.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364076331671" ignored="false" />
+    <file path="/Dummy.txt" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364330011819" ignored="false" />
     <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/include/generic/header.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364075872638" ignored="false" />
     <file path="/header.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364075871787" ignored="false" />
     <file path="/Dummy.regexp" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364069255555" ignored="false" />
@@ -45,13 +31,17 @@
     <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/project_selector/project/index.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364076002649" ignored="false" />
     <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/project_selector/index.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364076069777" ignored="false" />
     <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/styles/default.css" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364076117494" ignored="false" />
-    <file path="/default.css" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364076097415" ignored="false" />
+    <file path="/default.css" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364332267645" ignored="false" />
     <file path="/index.html" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364078185786" ignored="false" />
     <file path="/peugeot-206-2008.html" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364077884224" ignored="false" />
     <file path="/phone-app.html" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364078210334" ignored="false" />
     <file path="/traffic.html" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364078223181" ignored="false" />
     <file path="/why-go-gold.html" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364078228949" ignored="false" />
-    <file path="/About-Us.html" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364078249742" ignored="false" />
+    <file path="/About-Us.html" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364078646234" ignored="false" />
+    <file path="/schemes.html" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364330057044" ignored="false" />
+    <file path="/Contact-Us.html" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364331144406" ignored="false" />
+    <file path="/advice.html" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364332108162" ignored="false" />
+    <file path="$PROJECT_DIR$/../Clinical-Justice-Web/include/footer/footer.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364332742936" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,58 +61,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="mechanic.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mechanic.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="67" selection-start="16" selection-end="84" vertical-scroll-proportion="-0.65384614">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="traffic.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/traffic.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="199" column="45" selection-start="7852" selection-end="7852" vertical-scroll-proportion="-13.615385">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Terms-and-Conditions.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Terms-and-Conditions.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="-0.65384614">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="user.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/user.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="-0.65384614">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vauxhall-astra-2008.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vauxhall-astra-2008.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="68" selection-start="306" selection-end="306" vertical-scroll-proportion="-3.2692308">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="208" column="25" selection-start="8968" selection-end="8968" vertical-scroll-proportion="-12.346154">
+            <state line="199" column="45" selection-start="7852" selection-end="7852" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -131,11 +73,8 @@
       <file leaf-file-name="why-go-gold.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/why-go-gold.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="199" column="47" selection-start="7854" selection-end="7854" vertical-scroll-proportion="-16.653847">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="199" column="47" selection-start="7854" selection-end="7854" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -143,11 +82,75 @@
       <file leaf-file-name="About-Us.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/About-Us.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="203" column="53" selection-start="8593" selection-end="8593" vertical-scroll-proportion="0.3908873">
+            <state line="186" column="24" selection-start="7650" selection-end="7650" vertical-scroll-proportion="0.47397768">
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="schemes.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/schemes.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="205" column="0" selection-start="8652" selection-end="8652" vertical-scroll-proportion="-14.076923">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shop.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="29" selection-start="1689" selection-end="1689" vertical-scroll-proportion="-26.807692">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Contact-Us.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Contact-Us.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="203" column="30" selection-start="8099" selection-end="8099" vertical-scroll-proportion="-11.538462">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#font#0;n#h2#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#font#0;n#h2#1;n#div#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#small#0;n#h2#1;n#div#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="advice.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advice.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="258" column="0" selection-start="12859" selection-end="12859" vertical-scroll-proportion="-8.392157">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles/default.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="186" column="26" selection-start="2882" selection-end="2882" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="breakdown.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/breakdown.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="206" column="13" selection-start="8749" selection-end="8749" vertical-scroll-proportion="-12.461538">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -155,23 +158,8 @@
       <file leaf-file-name="phone-app.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phone-app.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="199" column="53" selection-start="7860" selection-end="7860" vertical-scroll-proportion="-14.269231">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="peugeot-206-2008.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/peugeot-206-2008.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="67" selection-start="0" selection-end="15864" vertical-scroll-proportion="-0.65384614">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="199" column="53" selection-start="7860" selection-end="7860" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -194,13 +182,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/breakdown.html" />
-        <option value="$PROJECT_DIR$/Contact-Us.html" />
-        <option value="$PROJECT_DIR$/ford-fiesta-2008.html" />
         <option value="$PROJECT_DIR$/honda-accord-2008.html" />
         <option value="$PROJECT_DIR$/mechanic.html" />
         <option value="$PROJECT_DIR$/peugeot-206-2008.html" />
-        <option value="$PROJECT_DIR$/schemes.html" />
         <option value="$PROJECT_DIR$/shop.html" />
         <option value="$PROJECT_DIR$/Terms-and-Conditions.html" />
         <option value="$PROJECT_DIR$/user.html" />
@@ -210,6 +194,10 @@
         <option value="$PROJECT_DIR$/traffic.html" />
         <option value="$PROJECT_DIR$/why-go-gold.html" />
         <option value="$PROJECT_DIR$/About-Us.html" />
+        <option value="$PROJECT_DIR$/schemes.html" />
+        <option value="$PROJECT_DIR$/Contact-Us.html" />
+        <option value="$PROJECT_DIR$/advice.html" />
+        <option value="$PROJECT_DIR$/styles/default.css" />
       </list>
     </option>
   </component>
@@ -264,6 +252,11 @@
             <id>XML</id>
           </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
   </component>
@@ -322,7 +315,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="styles" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -333,14 +326,24 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="options.lastSelected" value="Errors" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="reference.settings.ide.settings.web.browsers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Clinical-Justice-Web" />
     <property name="FullScreen" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
-  <component name="PublishConfig">
+  <component name="PublishConfig" serverName="Beattie-MMCR" serverId="5d3c0c60-3cd6-40ae-97eb-9e4565b37566">
     <servers>
+      <server id="5d3c0c60-3cd6-40ae-97eb-9e4565b37566">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/index.html" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="6c5d42fd-bd4f-483c-8e9f-876b2307a839">
+        <serverdata />
+      </server>
       <server id="df382b86-fb44-4e48-b979-3e1bb6abee72">
         <serverdata />
       </server>
@@ -357,6 +360,13 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
+      <JSRemoteDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSRemoteDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
         <option name="engineId" value="embedded" />
@@ -367,7 +377,7 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
     <option name="mySSHConnectionTimeout" value="30000" />
@@ -377,7 +387,6 @@
     <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
     <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
     <option name="IGNORE_SPACES_IN_MERGE" value="false" />
-    <option name="DETECT_NESTED_COPIES" value="true" />
     <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
     <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
     <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
@@ -399,11 +408,19 @@
       <created>1362684629386</created>
       <updated>1362684629386</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit Me!">
+      <created>1364078350444</created>
+      <updated>1364078350444</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit Me!">
+      <created>1364078652387</created>
+      <updated>1364078652387</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34428573" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -411,12 +428,13 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19850586" sideWeight="0.67" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15368196" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.49626467" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -489,126 +507,124 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/breakdown.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="-0.65384614">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Contact-Us.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="-0.65384614">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ford-fiesta-2008.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="-0.65384614">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/honda-accord-2008.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="-0.65384614">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/schemes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="-0.65384614">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="-0.65384614">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Terms-and-Conditions.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="-0.65384614">
+        <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/user.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="-0.65384614">
+        <state line="1" column="67" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vauxhall-astra-2008.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="68" selection-start="306" selection-end="306" vertical-scroll-proportion="-3.2692308">
+        <state line="5" column="68" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mechanic.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="67" selection-start="16" selection-end="84" vertical-scroll-proportion="-0.65384614">
+        <state line="1" column="67" selection-start="16" selection-end="84" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/peugeot-206-2008.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="67" selection-start="0" selection-end="15864" vertical-scroll-proportion="-0.65384614">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="1" column="67" selection-start="0" selection-end="15864" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="208" column="25" selection-start="8968" selection-end="8968" vertical-scroll-proportion="-12.346154">
+        <state line="208" column="25" selection-start="8968" selection-end="8968" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/traffic.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="199" column="45" selection-start="7852" selection-end="7852" vertical-scroll-proportion="-13.615385">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="199" column="45" selection-start="7852" selection-end="7852" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/why-go-gold.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="199" column="47" selection-start="7854" selection-end="7854" vertical-scroll-proportion="-16.653847">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="199" column="47" selection-start="7854" selection-end="7854" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/phone-app.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="199" column="53" selection-start="7860" selection-end="7860" vertical-scroll-proportion="-14.269231">
+        <state line="199" column="53" selection-start="7860" selection-end="7860" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advice.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="258" column="0" selection-start="12859" selection-end="12859" vertical-scroll-proportion="-8.392157">
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="186" column="26" selection-start="2882" selection-end="2882" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/breakdown.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="206" column="13" selection-start="8749" selection-end="8749" vertical-scroll-proportion="-12.461538">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contact-Us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="203" column="30" selection-start="8099" selection-end="8099" vertical-scroll-proportion="-11.538462">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#font#0;n#h2#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#font#0;n#h2#1;n#div#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#small#0;n#h2#1;n#div#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schemes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="205" column="0" selection-start="8652" selection-end="8652" vertical-scroll-proportion="-14.076923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="29" selection-start="1689" selection-end="1689" vertical-scroll-proportion="-26.807692">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/About-Us.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="203" column="53" selection-start="8593" selection-end="8593" vertical-scroll-proportion="0.3908873">
+        <state line="186" column="24" selection-start="7650" selection-end="7650" vertical-scroll-proportion="0.47397768">
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
