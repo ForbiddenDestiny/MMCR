@@ -44,12 +44,12 @@ body {
 }
 
 a {
-    color: Black;
+    color: #FF9200;
     padding-left: 5px;
 }
 
 a:hover {
-    color: Grey;
+    color: #1921B1;
 }      
 
 #container {
@@ -93,11 +93,12 @@ a:hover {
     text-decoration: none;
     font-family: Arial,Helvetica,sans-serif;
     font-size: 16px;
-    color: Black;
+    color: #0b61a4;
+
 }
 
 ul a:hover {
-    color: Grey;
+    color: #00ac6b;
 }
 
 #fullwidth {
