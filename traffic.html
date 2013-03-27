@@ -40,9 +40,7 @@
                     /*
                      *  How to load a feed via the Feeds API.
                      */
-
                     google.load("feeds", "1");
-
                     // Our callback function, for when a feed is loaded.
                     function feedLoaded(result) {
                         if (!result.error) {
@@ -61,7 +59,6 @@
                             }
                         }
                     }
-
                     function OnLoad() {
                         // Create a feed instance that will grab Digg's feed.
                         var feed = new google.feeds.Feed("http://hatrafficinfo.dft.gov.uk/feeds/rss/UnplannedEvents.xml");
@@ -69,12 +66,11 @@
                         // Calling load sends the request off.  It requires a callback function.
                         feed.load(feedLoaded);
                     }
-
                     google.setOnLoadCallback(OnLoad);
                 </script>
 
                 <div id="content">Loading...</div>
-<br/>
+                <br/>
                 <p>Please be aware, if there is no information above there are no alerts in currently in progress</p>
             </div>
         </td>

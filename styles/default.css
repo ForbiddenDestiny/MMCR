@@ -67,22 +67,24 @@ a:hover {
     margin: 0;
     padding: 0;
 }
-
-.navbox ul {
-    list-style-type: none;
-    width: 900px;
-    margin: auto;
-}
-
 .bigbox ul li {
     margin-left: 30px;
     padding-left: 10px;
 }
 
-.navbox li {
-    float: left;
-    line-height: 50px;
-    font-family: Arial,Helvetica,sans-serif;
+.navbox {
+    width: 850px;
+    height: 50px;
+    background-color: white;
+    border: thin dotted;
+    border-radius: 7px;
+    padding: 5px 5px 5px 5px;
+    margin: 15px 15px 15px 15px;
+}
+.navbox ul {
+    list-style-type: none;
+    width: 900px;
+    margin: auto;
 }
 
 .navbox ul a{
@@ -94,8 +96,14 @@ a:hover {
     font-family: Arial,Helvetica,sans-serif;
     font-size: 16px;
     color: #0b61a4;
-
 }
+
+.navbox li {
+     float: left;
+     line-height: 50px;
+     font-family: Arial,Helvetica,sans-serif;
+ }
+
 
 ul a:hover {
     color: #00ac6b;
@@ -148,17 +156,6 @@ table {
     padding-bottom: 10px;
     padding-left: 10px;
 }
-
-.navbox {
-	width: 850px;
-	height: 50px;
-	background-color: white;
-	border: thin dotted;
-	border-radius: 7px;
-	padding: 5px 5px 5px 5px;
-	margin: 15px 15px 15px 15px;
-}
-
 
 .box {
 	width: 245px;
