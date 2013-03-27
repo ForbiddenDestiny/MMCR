@@ -2,18 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/triangle.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Terms-and-Conditions.html" afterPath="$PROJECT_DIR$/Terms-and-Conditions.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/breakdown.html" afterPath="$PROJECT_DIR$/breakdown.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mechanic.html" afterPath="$PROJECT_DIR$/mechanic.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phone-app.html" afterPath="$PROJECT_DIR$/phone-app.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/traffic.html" afterPath="$PROJECT_DIR$/traffic.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user.html" afterPath="$PROJECT_DIR$/user.html" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\Finished Images\Background-image.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\Finished Images\Clipboardticks.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\Finished Images\Gold Medal.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\Finished Images\Gold-Medal-Ad.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\Finished Images\Logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\Finished Images\Logo.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\Finished Images\PUSHINGcAR.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\Finished Images\Phone app ad.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\Finished Images\Question.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\Finished Images\Spanners and shit.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\Finished Images\fix.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\Girl with her broken silver car.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\MMCR Images to Edit\150376244.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\MMCR Images to Edit\Clipboardticks.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\MMCR Images to Edit\Gold Medal.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\MMCR Images to Edit\Gold-Medal-Ad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\MMCR Images to Edit\Icons\10641540-gold-medal-with-ribbon-isolated-on-white.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\MMCR Images to Edit\Icons\10641540-gold-medal-with-ribbon-isolated-on-white.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\MMCR Images to Edit\Icons\11954275791751619642cart_pommi_02.svg.hi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\MMCR Images to Edit\Icons\Icon-round-Question_mark.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\MMCR Images to Edit\Icons\add_user.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\MMCR Images to Edit\Icons\car.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\MMCR Images to Edit\Icons\car.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\MMCR Images to Edit\Icons\home.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\MMCR Images to Edit\Icons\jamiroquai.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\MMCR Images to Edit\Icons\lock.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\MMCR Images to Edit\Phone app ad.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\MMCR Images to Edit\Question.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\MMCR Images to Edit\Riddler.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\MMCR Images to Edit\WTF top.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\MMCR Images to Edit\WTF top.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\MMCR Images to Edit\broken down car 250x275.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\MMCR Images to Edit\car_servicing.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\MMCR Images to Edit\carbettery.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\MMCR Images to Edit\img_0683.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\MMCR Images to Edit\pushing-broken-down-car.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\MMCR Stuff\MMCR Images to Edit\trafficlight.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\nbproject\private\config.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\nbproject\private\private.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\nbproject\private\private.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\nbproject\project.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\MMCR\nbproject\project.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MMCR.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364344510471" ignored="false" />
+    <file path="/Dummy.txt" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364346021644" ignored="false" />
     <file path="$PROJECT_DIR$/../Adaptive-Programme-Management/include/generic/header.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364075872638" ignored="false" />
     <file path="/header.php" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364075871787" ignored="false" />
     <file path="/Dummy.regexp" changelist="7d76b4ce-f82d-41d7-9ded-48be0b23c95f" time="1364069255555" ignored="false" />
@@ -74,15 +109,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="peugeot-206-2008.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/peugeot-206-2008.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="72" selection-start="1559" selection-end="1559" vertical-scroll-proportion="-24.192308">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ford-fiesta-2008.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ford-fiesta-2008.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -151,7 +177,7 @@
       <file leaf-file-name="traffic.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/traffic.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="5" selection-start="3759" selection-end="3759" vertical-scroll-proportion="0.9088729">
+            <state line="59" column="50" selection-start="3124" selection-end="3124" vertical-scroll-proportion="0.5623501">
               <folding />
             </state>
           </provider>
@@ -307,66 +333,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MMCR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MMCR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="styles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MMCR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MMCR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="styles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="login" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MMCR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MMCR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MMCR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MMCR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="include" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -489,12 +455,16 @@
       <created>1364344516690</created>
       <updated>1364344516690</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Commit Me!">
+      <created>1364346024862</created>
+      <updated>1364346024862</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34428573" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -507,7 +477,7 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15528281" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15528281" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -560,7 +530,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Me!" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -574,20 +544,13 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="Commit Me!" />
     <MESSAGE value="Refactoring" />
+    <MESSAGE value="Commit Me!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="42" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/advice.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="9" selection-start="1299" selection-end="1299" vertical-scroll-proportion="-18.961538">
@@ -694,7 +657,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/traffic.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="5" selection-start="3759" selection-end="3759" vertical-scroll-proportion="0.9088729">
+        <state line="59" column="50" selection-start="3124" selection-end="3124" vertical-scroll-proportion="0.5623501">
           <folding />
         </state>
       </provider>
