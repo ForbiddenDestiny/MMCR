@@ -30,12 +30,10 @@
     </tr>
     <tr>
         <td>
-            <div class="box"> <a href="#mechform-box" class="mechform-window">Mechanic Form
+            <div class="box"> <a href="#mechform-box" class="login-window">Mechanic Form
                 <br/>
                 <img src="images/Clipboardticks.jpg" width="210" /></a>
             </div>
-
-
         </td>
     </tr>
 </table>
@@ -44,12 +42,13 @@
 
 <div id="mechform-box" class="login-popup" style="display: none; margin-top: -116px; margin-left: -132px;">
     <div align="right"><a href="#" class="close"><img src="images/close_pop.png" class="btn_close" title="Close Window" alt="Close"></a></div>
-    <h1> Update User </h1>
+    <h1> Mechanic Form </h1>
     <form method="post" class="signin" action="#">
-        <fieldset class="textbox">                        <label class="username">
-            <span>ID</span>
-            <input  name="lblMechID" value="" type="text" autocomplete="on" >
-        </label>
+        <fieldset class="textbox">
+            <label class="username">
+                <span>ID</span>
+                <input  name="lblMechID" value="" type="text" autocomplete="on" >
+            </label>
             <table>
                 <tr>
                     <td>
@@ -57,7 +56,6 @@
                             <span>Name</span>
                             <input  name="lblMechName" value="" type="text" autocomplete="on">
                         </label>
-
                         <label class="username">
                             <span>Location</span>
                             <input  name="lblCurrentLocation" value="" type="text" autocomplete="on" >
@@ -66,8 +64,6 @@
                             <span>ID</span>
                             <input  name="txtUpdateLocLat/Long" value="" type="text" autocomplete="on" >
                         </label>
-
-
                         <label class="username">
                             <span>Required Part</span>
                             <input name="lblReqPart" value="" type="password" >
@@ -75,31 +71,22 @@
                         </label>
                     </td>
                     <td>
-
                         <label class="username">
                             <span>Required Quantity</span>
                             <input name="lblReqQuantity" value="" type="password">
                         </label>
-
-
-                            <label class="username">
-                                <span>nearest Incident</span>
-                                <input name="lblNearestIncident" value="" type="password" >
-                            </label>
-
-
-
-                            <label class="username">
-                                <span>Post Code</span>
-                                <input name="lblCurrentIncident" value="" type="password" >
-                            </label>
-
-                            <label class="username">
-                                <span>Current Incident Location</span>
-                                <input name="CurrentIncidentLocation" value="" type="password" >
-                            </label>
-
-
+                        <label class="username">
+                            <span>nearest Incident</span>
+                            <input name="lblNearestIncident" value="" type="password" >
+                        </label>
+                        <label class="username">
+                            <span>Post Code</span>
+                            <input name="lblCurrentIncident" value="" type="password" >
+                        </label>
+                        <label class="username">
+                            <span>Current Incident Location</span>
+                            <input name="CurrentIncidentLocation" value="" type="password" >
+                        </label>
                     </td>
                 </tr>
             </table>
@@ -107,11 +94,8 @@
             <button name="btnCollected" class="submit button" type="submit">Collect</button><br/>
             <button name="btnAcceptIncident" class="submit button" type="submit">Accept Incident</button><br/>
             <button name="btnPartUsed" class="submit button" type="submit">Part Used</button><br/>
-
             <button name="btnRegSubmit" class="submit button" type="submit">Submit</button>
         </fieldset>
     </form>
-
-
 </body>
 </html>
